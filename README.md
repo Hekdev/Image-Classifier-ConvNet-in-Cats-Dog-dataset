@@ -5,8 +5,8 @@ Vous pouvez trouver le dataset dans ce lien, veuillez le télécharger: - https:
 
 Ce programme a été créer avec les dépendances suivantes, veuillez les respecter ou chercher dans la documentation les versions compatibles entre ces bibliothèques:
 Python 3.10.4,
-Name: numpy        Version: 1.23.5,
-Name: tqdm         Version: 4.66.4,
-Name: tflearn      Version: 0.5.0,
-Name: tensorflow   Version: 2.12.0,
-Name: matplotlib   Version: 3.8.4
+numpy 1.23.5,
+tqdm  4.66.4,
+tflearn 0.5.0,
+tensorflow 2.12.0,
+matplotlib 3.8.4
